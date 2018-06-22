@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.jbosscache-core:3.2.5.GA_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jbosscache-core/3.2.5.GA_2/864918239a5e72f6f07ef780f1e6587014a20555/dot.jbosscache-core-3.2.5.GA_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jbosscache-core/3.2.5.GA_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.jbosscache-core-3.2.5.GA_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

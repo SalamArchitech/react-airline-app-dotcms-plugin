@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.log4j-1.2-api:2.3_1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.log4j-1.2-api/2.3_1/e02a31bfec199d3f3703692ee0be3b77fa57af32/dot.log4j-1.2-api-2.3_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.log4j-1.2-api/2.3_1/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.log4j-1.2-api-2.3_1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

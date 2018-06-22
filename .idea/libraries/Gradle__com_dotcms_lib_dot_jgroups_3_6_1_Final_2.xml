@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.jgroups:3.6.1.Final_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jgroups/3.6.1.Final_2/d35852f066160c5cc6a60183c92e4d0a5a25063e/dot.jgroups-3.6.1.Final_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jgroups/3.6.1.Final_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.jgroups-3.6.1.Final_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

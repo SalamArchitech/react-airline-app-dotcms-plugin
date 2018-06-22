@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.imageio:imageio-icns:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-icns/3.2.1/7cac950b5752e22fd266f5eb2365bf75c7ef22b/imageio-icns-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-icns/3.2.1/a1bf3d42c3bd984d6f448822d2864d105ad64c59/imageio-icns-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

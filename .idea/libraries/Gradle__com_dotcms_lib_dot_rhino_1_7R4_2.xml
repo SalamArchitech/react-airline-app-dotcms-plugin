@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.rhino:1.7R4_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.rhino/1.7R4_2/d7616ce69d8ff4f5461ee64836ca200dc5d24a1b/dot.rhino-1.7R4_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.rhino/1.7R4_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.rhino-1.7R4_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

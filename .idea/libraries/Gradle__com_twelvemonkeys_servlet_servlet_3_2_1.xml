@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.servlet:servlet:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.servlet/servlet/3.2.1/a9c9413c9e76426ca2615b8a52c7b53d421f3be0/servlet-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.servlet/servlet/3.2.1/6edac285b6039039909a4eae03546527d0fef1a7/servlet-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

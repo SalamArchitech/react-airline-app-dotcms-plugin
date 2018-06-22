@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.felix:org.apache.felix.http.jetty:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.jetty/3.0.0/7af2fae0a18ee3ba5195125a0085c3e3e9da0e79/org.apache.felix.http.jetty-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.jetty/3.0.0/98da7845c123815fef2dd1508eb95e846b556724/org.apache.felix.http.jetty-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

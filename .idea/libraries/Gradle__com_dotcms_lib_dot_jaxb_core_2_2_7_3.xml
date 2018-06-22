@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.jaxb-core:2.2.7_3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jaxb-core/2.2.7_3/14bb4583afba3d8f39edaa2865439e29c878c77a/dot.jaxb-core-2.2.7_3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.jaxb-core/2.2.7_3/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.jaxb-core-2.2.7_3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

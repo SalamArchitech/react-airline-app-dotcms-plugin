@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.felix:org.apache.felix.http.bridge:3.0.18">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.bridge/3.0.18/3c1aba9f31fe51da8396b89533055ce07a81064c/org.apache.felix.http.bridge-3.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.bridge/3.0.18/6ac257e5e3bff0e26feb11c270e1b8c6afcc7b9f/org.apache.felix.http.bridge-3.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

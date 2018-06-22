@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.felix:org.apache.felix.http.cometd:2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.cometd/2.3.2/76ef9678aff706f34b24bb47b19dd30d49b7b2ca/org.apache.felix.http.cometd-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.cometd/2.3.2/996a87ce3f4a42de16b4e68ffec2e3075aecb1f9/org.apache.felix.http.cometd-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.felix:org.apache.felix.http.whiteboard:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.whiteboard/3.0.0/42d3330324a2e798cf574ba7b285ce30926295f7/org.apache.felix.http.whiteboard-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.whiteboard/3.0.0/393d9d3f1c7c399f23d634b50af56155ab2ee1d3/org.apache.felix.http.whiteboard-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

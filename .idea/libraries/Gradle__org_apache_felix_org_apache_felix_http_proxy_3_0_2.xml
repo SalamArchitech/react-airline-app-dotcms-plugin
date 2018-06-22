@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.felix:org.apache.felix.http.proxy:3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.proxy/3.0.2/17fcfbc2374ac7fb8938dc999d678e96698bc53e/org.apache.felix.http.proxy-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.proxy/3.0.2/7e977a9f3a1c24413811d73f83955ae598403b38/org.apache.felix.http.proxy-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

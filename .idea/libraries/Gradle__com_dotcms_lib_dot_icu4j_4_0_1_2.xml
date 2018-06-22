@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.icu4j:4.0.1_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.icu4j/4.0.1_2/23d0bdf0564a8588bbbe90f175050b7831796531/dot.icu4j-4.0.1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.icu4j/4.0.1_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.icu4j-4.0.1_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

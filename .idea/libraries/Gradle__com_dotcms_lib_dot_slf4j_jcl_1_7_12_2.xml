@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.slf4j-jcl:1.7.12_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.slf4j-jcl/1.7.12_2/9401837a372eebc9371ebaaefc0ae2fa321c1fc0/dot.slf4j-jcl-1.7.12_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.slf4j-jcl/1.7.12_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.slf4j-jcl-1.7.12_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

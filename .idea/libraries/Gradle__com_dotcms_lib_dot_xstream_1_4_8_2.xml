@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.xstream:1.4.8_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.xstream/1.4.8_2/b71e80020cfbb41a638ea75f14c655ed294fb39a/dot.xstream-1.4.8_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.xstream/1.4.8_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.xstream-1.4.8_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

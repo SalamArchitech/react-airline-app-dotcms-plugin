@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.milton-api:1.8.1.4_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.milton-api/1.8.1.4_2/b0ccf8726c0f70e05aa9095bf148e3f0fd2995e9/dot.milton-api-1.8.1.4_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.milton-api/1.8.1.4_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.milton-api-1.8.1.4_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cometd.java:cometd-java-client:2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cometd.java/cometd-java-client/2.8.0/fe8a25ba28caf0b7354817367fbdbd1987716108/cometd-java-client-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cometd.java/cometd-java-client/2.8.0/f36e4beea37fcef42e5f5ea61d4f99aab9e234c/cometd-java-client-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

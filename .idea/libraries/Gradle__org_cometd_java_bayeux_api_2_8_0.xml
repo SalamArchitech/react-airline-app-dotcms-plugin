@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cometd.java:bayeux-api:2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cometd.java/bayeux-api/2.8.0/962ec42246d332877ef72459973f8b856741b129/bayeux-api-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cometd.java/bayeux-api/2.8.0/62538e9833fc9db96b04417d495ab086cb298675/bayeux-api-2.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

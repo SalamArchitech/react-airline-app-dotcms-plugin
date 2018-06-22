@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.commons-beanutils:1.6.1_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.commons-beanutils/1.6.1_2/c8b83bee315c4859e5fe095d299c069eb2885438/dot.commons-beanutils-1.6.1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.commons-beanutils/1.6.1_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.commons-beanutils-1.6.1_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

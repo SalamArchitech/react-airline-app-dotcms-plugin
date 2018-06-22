@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.quartz-all:1.8.6_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.quartz-all/1.8.6_2/130a82568f792d6de302c80e2df33f8392cc9975/dot.quartz-all-1.8.6_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.quartz-all/1.8.6_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.quartz-all-1.8.6_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

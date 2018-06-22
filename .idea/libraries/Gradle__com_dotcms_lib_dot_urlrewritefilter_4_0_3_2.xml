@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.urlrewritefilter:4.0.3_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.urlrewritefilter/4.0.3_2/5da4057e11f3b27ed08f758297e9d62e8cf61c7b/dot.urlrewritefilter-4.0.3_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.urlrewritefilter/4.0.3_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.urlrewritefilter-4.0.3_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

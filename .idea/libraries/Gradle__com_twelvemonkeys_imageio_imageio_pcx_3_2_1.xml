@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.imageio:imageio-pcx:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-pcx/3.2.1/e7749c214d4587863067898684053d322e953ad0/imageio-pcx-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-pcx/3.2.1/4233124ee71aaa5a038bcd29903eeff22e9d61/imageio-pcx-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

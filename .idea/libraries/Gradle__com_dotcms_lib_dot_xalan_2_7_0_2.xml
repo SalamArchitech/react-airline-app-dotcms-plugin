@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.xalan:2.7.0_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.xalan/2.7.0_2/8e9fffeac9cc62fe3971ef3d4f4b8c3e3499fd1e/dot.xalan-2.7.0_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.xalan/2.7.0_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.xalan-2.7.0_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

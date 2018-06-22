@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.stax2-api:3.1.1_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.stax2-api/3.1.1_2/a7b7da68870faeb7cd4e4a069f022edcd12161fb/dot.stax2-api-3.1.1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.stax2-api/3.1.1_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.stax2-api-3.1.1_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

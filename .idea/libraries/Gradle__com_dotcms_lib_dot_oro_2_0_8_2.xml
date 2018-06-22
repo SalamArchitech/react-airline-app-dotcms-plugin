@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.oro:2.0.8_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.oro/2.0.8_2/75c3f8b82eab3d3ac93ccbe4ed046ca8e6c4eb24/dot.oro-2.0.8_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.oro/2.0.8_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.oro-2.0.8_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dotcms.lib:dot.mime-util:2.1.3_2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.mime-util/2.1.3_2/4a128f59c6b32afb4c70877b83f1e0ca632b4506/dot.mime-util-2.1.3_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dotcms.lib/dot.mime-util/2.1.3_2/b95d8d7d1a57cf46d9f0e924f8864f94159bffd3/dot.mime-util-2.1.3_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

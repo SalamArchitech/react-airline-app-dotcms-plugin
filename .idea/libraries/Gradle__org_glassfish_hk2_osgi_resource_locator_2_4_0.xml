@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.hk2:osgi-resource-locator:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/2.4.0/e345bc5a00ed2fab4b851f7bab5da99fc1a6e8fd/osgi-resource-locator-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/2.4.0/1a7414c7e445173d4798572d4dfd56b4e0a44a76/osgi-resource-locator-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

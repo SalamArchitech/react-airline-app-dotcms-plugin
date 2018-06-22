@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.imageio:imageio-sgi:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-sgi/3.2.1/794773c2c6206cdc80163b72248ab680a28ec50d/imageio-sgi-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-sgi/3.2.1/e80a03b7236fc9433da190331029289eb86e90bd/imageio-sgi-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

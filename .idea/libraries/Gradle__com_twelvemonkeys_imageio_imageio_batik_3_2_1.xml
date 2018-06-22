@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twelvemonkeys.imageio:imageio-batik:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-batik/3.2.1/4e4230e556ec8c34a89857edd855d5b965711546/imageio-batik-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-batik/3.2.1/a6f4805f6a7eac2dcb3576900b3623bbb4153b02/imageio-batik-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
